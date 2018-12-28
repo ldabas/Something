@@ -2,4 +2,6 @@
 Finance Project with Hamad and Callum
 
 
-A Student Focused Robo ETF that works as a pooled investment fund for students with a focus on Green Investing.
+A machine learning algorith that assesses weather the change in a company's stock price based on new information is justified or not, and present a more reasonable stock price per 5 seconds.
+
+For viewing and editing privileges, please e-mail lakshitdabas@hotmail.com
